@@ -1,0 +1,6 @@
+{
+  "name": "GamerZone",
+  "description": "Plataforma gamer futurista con ranking, juegos, clips, amigos y misiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
